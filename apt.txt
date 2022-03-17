@@ -1,3 +1,5 @@
 gnuplot
 ghostscript
-qt-sdk
+
+build-essential
+qt5-default
